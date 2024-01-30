@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MockClothesAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+005f1e8a7743d2101d523d64804f3bbe97973934")]
 [assembly: System.Reflection.AssemblyProductAttribute("MockClothesAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MockClothesAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
